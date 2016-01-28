@@ -1,0 +1,5 @@
+Build of Github project:
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+
+Installation:
+adb install -r -g tensorflow_demo.apk
